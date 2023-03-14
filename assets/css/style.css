@@ -1,0 +1,14 @@
+/* 
+* @Author: Andrew Judd
+* @Date:   2014-02-17 21:07:58
+* @Last Modified by:   Andrew Judd
+* @Last Modified time: 2014-02-18 19:45:25
+*/
+
+#game-canvas {
+    width: 500px;
+    height: 450px;
+    border: solid #000000 1px;
+    margin-left: auto;
+    margin-right: auto;
+}
